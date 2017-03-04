@@ -208,12 +208,18 @@ h1, p {
 label {
   display: block;
   color: maroon;
+  font-family: 'PT Serif', serif;
 }
 
 /* ===== LAYOUT STYLES ====== */
 
+input[type="checkbox"] + label {
+  display: inline;
+}
+
 input {
   background-color: #DCDCDC;
+  font-family: 'PT Serif', serif;
 }
 
 #input-email {
@@ -230,10 +236,9 @@ input {
   padding-top: 1.375em;
   padding-bottom: 1.375em;
   color: maroon;
+  text-align: center;
 }
 
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
-
-#D3D3D3
