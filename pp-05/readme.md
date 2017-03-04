@@ -8,7 +8,7 @@ Opt for the Paletton Preview mode Default with Text; you can start at this URL i
 
 1. An adjacent color palette for introducing a new console gaming platform
 
-Your Palette URL: hhttp://paletton.com/#uid=53M0-0kds6A7thn7h9ij15DoE4g
+Your Palette URL: http://paletton.com/#uid=53M0-0kds6A7thn7h9ij15DoE4g
 Your Rationale: While most people would probably think of bright colors to relate the vibrance to the energy and vigor of playing video games and the enjoyment it brings, I believe the other side of the spectrum gives off a cooler look. I went with the blue with the dark purple and almost teal tint but shaded it almost completely out because for me, it gives off more of a sleek "elite" look of a game system. Very professional in my opinion compared to let's say a Wii which is white for pleasing normally a younger crowd. 
 
 2. A triadic color palette for announcing springtime tours at the Chicago Botanical Gardens
