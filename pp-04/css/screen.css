@@ -192,19 +192,39 @@ img, audio, video {
 */
 
 html {
+  font-family: 'Bodoni MT', serif;
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+  background-color: #FFFACD;
+}
+
+h1, p {
+  padding-bottom: 1.375em;
+  padding-left: 1.375em;
 }
 
 label {
   display: block;
+  color: maroon;
 }
 
 /* ===== LAYOUT STYLES ====== */
+
+input {
+  background-color: #DCDCDC;
+}
+
+#input-email {
+  padding-bottom: 1.375em;
+  padding-left: 1.375em;
+}
+
+#input-
 
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
 
+#D3D3D3
