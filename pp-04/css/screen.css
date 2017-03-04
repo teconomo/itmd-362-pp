@@ -242,3 +242,9 @@ input {
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
+
+@font-face {
+  font-family: 'PT Serif';
+  font-weight: 400;
+  font-style: normal;
+}
