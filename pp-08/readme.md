@@ -16,7 +16,7 @@ B. Emotional design levels of your object:
 
 * Visceral: 
 
-Visceral relates to our fast "affective" emotions towards something. For me, the reason I chose this item is because immediately, the first things my body (subconscious) think of is A. "it's obviously safe" and B. "it's simple and modernistic". It goes against all of the complications and heavy "bulk" that huge over-the-head headsets would have and puts my mind at ease without having it worry or overthink. 
+Visceral relates to our fast "affective" emotions towards something. For me, the reason I chose this item is because immediately, the first things my body (subconscious) think of is A. "it's obviously safe" and B. "it's simple and modernistic", so it grabs my attention immediately. It goes against all of the complications and heavy "bulk" that huge over-the-head headsets would have and puts my mind at ease without having it worry or overthink. 
 
 * Behavioral:
 
@@ -28,6 +28,8 @@ I've become used to this style of "audio hardware" now where, honest to God, I h
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
-1.
-2.
-3.
+1. The website should have a notion of "Aesthetic visual Design" where a user can be welcomed both safely and with genuineness as soon as they visit the website. The user should be able to trust the website upon walking up to its front door. 
+
+2. This relates to my Behavioral level which is funcionality. It is one thing to have the Visual design that is eye-capturing, but you need to make sure you can back that up with the physical behavior. On top of this, there should not be unnecessary clutter and attributes that would just get in the way.
+
+3. There should be a sense of reliance and attachment with the user and the website in the sense where the user can always count on coming to the website to complete their job with no interferences or stab to the trust they built.
